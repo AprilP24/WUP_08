@@ -74,3 +74,13 @@ summary.lm(MYAGE)
 The residual error is high with a 7.511 which is not a good result. While the R- squared is at 0.5166, Which is so far the best one out of all the plot charts we have doned. The smaller the R- squared, the better the results. 
 
 
+
+```{r}
+MYMONTH <- lm(LENGTH~MONTH,data=bears)
+plot(LENGTH~MONTH,data=bears)
+abline(MYMONTH)
+summary.lm(MYMONTH)
+```
+
+This chart has the highest residual error of 10.99 which is bad. Then the R- squared is 0.00423 which is now the lowest besides the AGE chart above. This data gives us a different chart, showing more blocks then dots
+
