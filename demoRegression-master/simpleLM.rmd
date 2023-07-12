@@ -98,4 +98,8 @@ HEADWTH 7.32
 AGE 7.511  
 
 
+Now ranking 
+
+
+
 I learned how to plot data charts/graphs and determine each residual and their differences by spectating if the R-Squared is higher or lower than others. Also learned that the smaller the R-squared the better the results and the bigger the number the bad results we get. Furthermore I think the MYHEADLEN plot is quite larger than others due to its R-Squared which is making the results worse
