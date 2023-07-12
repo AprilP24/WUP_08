@@ -88,4 +88,14 @@ The residual standard is at 4.235 on 52 degrees which is lower than the other ch
 
 #CONCLUSION
 
-In conclusion, I learned how to plot data charts/graphs and determine each residual and their differences by spectating if the R-Squared is higher or lower than others. Also learned that the smaller the R-squared the better the results and the bigger the number the bad results we get. Furthermore I think the MYHEADLEN plot is quite larger than others due to its R-Squared which is making the results worse
+In conclusion, when ranking against the bears length from his age, headlen, headwth, neck, chest and weight we have selected the order from best to worst due to their residual standard error: 
+
+HEADLEN 4.235  
+CHEST 4.939  
+NECK 5.376  
+WEIGHT 5.432  
+HEADWTH 7.32  
+AGE 7.511  
+
+
+I learned how to plot data charts/graphs and determine each residual and their differences by spectating if the R-Squared is higher or lower than others. Also learned that the smaller the R-squared the better the results and the bigger the number the bad results we get. Furthermore I think the MYHEADLEN plot is quite larger than others due to its R-Squared which is making the results worse
