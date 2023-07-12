@@ -98,8 +98,15 @@ HEADWTH 7.32
 AGE 7.511  
 
 
-Now ranking 
+Now ranking the bears length from his age, headlen, headwth, neck, chest and weight we have selected the order from best to worst due to its R-squared
+
+HEADLEN 0.8434  
+CHEST 0.7869  
+NECK 0.7476  
+WEIGHT .7423  
+HEADWTH 0.5321  
+AGE 0.5073  
 
 
-
-I learned how to plot data charts/graphs and determine each residual and their differences by spectating if the R-Squared is higher or lower than others. Also learned that the smaller the R-squared the better the results and the bigger the number the bad results we get. Furthermore I think the MYHEADLEN plot is quite larger than others due to its R-Squared which is making the results worse
+In conclusion
+I learned how to plot data charts/graphs and determine each residual and their differences by spectating if the R-Squared is higher or lower than others. Also learned that the smaller the R-squared the better the results and the bigger the number the bad results we get. Furthermore I think the MYHEADLEN plot is quite larger than others due to its R-Squared which is making the results worse.
