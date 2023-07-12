@@ -83,5 +83,7 @@ summary.lm(MYHEADLEN)
 ```
 
 
-#Conclusion
+The residual standard is at 4.235 on 52 degrees which is lower than the other chart above. While the R- squared for this data is 0.8463, which is pretty higher than the MYAGE plot and other plots we have doned. 
 
+
+#Conclusion
